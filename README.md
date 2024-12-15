@@ -14,6 +14,12 @@ This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline
 
 ## Project Workflow
 
+
+The following diagram illustrates the ETL pipeline workflow for the Uber Data Analysis project:
+
+![Uber Data Analysis Workflow](https://github.com/praveenreddy82472/DEproject_UberDataAnalysis/blob/main/images/UberFlow%20(1).png)
+
+
 ### 1. Data Dump into GCP Cloud Storage
 - Uploaded the raw CSV file(s) into a **GCP Cloud Storage bucket**.
 - Ensured proper permissions and bucket configuration for accessibility.
